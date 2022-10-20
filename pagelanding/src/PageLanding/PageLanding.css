@@ -1,0 +1,17 @@
+
+.navigation-bar {
+    display: flex;
+}
+.navigation-bar ul {
+    display: flex;
+    flex-direction: row;
+    margin-right: 1000px;
+}
+
+
+.navigation-bar ul li {
+    /* padding: 0 10px 0 10px; */
+    list-style-type:none;
+    margin-right: 200px;
+    font-weight: 500;
+}
