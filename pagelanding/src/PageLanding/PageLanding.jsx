@@ -46,13 +46,44 @@ const PageLanding = () => {
           </div>
         </div>
 
-        <div className='row'>
-            <div className="col-sm-6">
+        <div className='row main-purchase-container'>
+            <div className="">
               <div className='purchase-container'   >
                   <div className='purchase-title'>
-                        <h3>TENOR TROMBONE</h3>
+                        <h6>TENOR TROMBONE</h6>
                   </div>
-                  <p>$60</p>
+                  <h2>$60</h2>
+                  <p>Lorem Ipson</p>
+                  <p>Lorem Ipson</p>
+                  <p>Lorem Ipson</p>
+                  <p>Lorem Ipson</p>
+                  <button className='purchase-select-button'>SELECT</button>
+              </div>
+            </div>
+            <div className=" ">
+              <div className='purchase-container'   >
+                  <div className='purchase-title'>
+                        <h6>TENOR TROMBONE</h6>
+                  </div>
+                  <h2>$60</h2>
+                  <p>Lorem Ipson</p>
+                  <p>Lorem Ipson</p>
+                  <p>Lorem Ipson</p>
+                  <p>Lorem Ipson</p>
+                  <button>SELECT</button>
+              </div>
+            </div>
+            <div className=" ">
+              <div className='purchase-container'   >
+                  <div className='purchase-title'>
+                        <h6>TENOR TROMBONE</h6>
+                  </div>
+                  <h2>$60</h2>
+                  <p>Lorem Ipson</p>
+                  <p>Lorem Ipson</p>
+                  <p>Lorem Ipson</p>
+                  <p>Lorem Ipson</p>
+                  <button className='submit'>SELECT</button>
               </div>
             </div>
         </div>
